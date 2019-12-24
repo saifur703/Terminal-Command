@@ -16,3 +16,4 @@
 | mv  | move files or directories  |
 | **xdg-open**  | **open files or directories**  |
 | xdg-open **test.txt**  | open specific files  |
+| clear  | to clear the terminal screen  |
