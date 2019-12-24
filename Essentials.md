@@ -8,6 +8,7 @@
 | touch **test.txt** | create file |
 | cat  | concatenate files to stdout  |
 | cat **filename** OR, cat /path/to/file | Display A File  |
+| pwd  | Print Working Directory  |
 | mkdir  | make directory  |
 | rmdir  | remove empty directory  |
 | rm  | remove files or directories  |
