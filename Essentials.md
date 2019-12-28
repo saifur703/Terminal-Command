@@ -4,6 +4,7 @@
 | cd  | change directory  |
 | ls  | list directory  |
 | ls -all  | list directory of all hidden files  |
+| ls -a  | show hidden files  |
 | which npm | where the npm is... |
 | dir  | directory  |
 | touch **test.txt** | create file |
