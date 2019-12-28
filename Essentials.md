@@ -2,6 +2,7 @@
 | Utility  | Description |
 | :---: | :---: |
 | cd  | change directory  |
+| cd ..  | go to /home  |
 | ls  | list directory  |
 | ls -all  | list directory of all hidden files  |
 | ls -a  | show hidden files  |
